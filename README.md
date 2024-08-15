@@ -1,2 +1,2 @@
 # makemoreMols
-Generative models for molecules using text-based representation (SMILES/SAFE/SELFIES/groupSELFIES)
+Generative AI for molecule creation using text-based representation (SMILES/SAFE/SELFIES/groupSELFIES)
